@@ -18,8 +18,8 @@
 
 /* Modify the following definitions to fit your wireless and enrollment credentials. */
 
-#define wifi_name "uprep-cb" // Define SSID for your wireless connection.
-#define wifi_pass "mgmt9102" // Define the password for your wireless connection.
+#define wifi_name "" // Define SSID for your wireless connection.
+#define wifi_pass "" // Define the password for your wireless connection.
 #define wifi_security 2 //[0,1,2] Set to 0 for open, 1 for WEP, 2 for WPA
 #define username "" // Define the user name for enrolling the device.
 #define password "" // The password for the enrollment GAFE account.
